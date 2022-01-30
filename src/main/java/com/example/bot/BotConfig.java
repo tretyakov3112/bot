@@ -18,10 +18,10 @@ public class BotConfig {
     private BigInteger id;
 
     //имя бота, которое вы указали при регистрации
-    private String name = "BestWeather239bot";
+    private String name = "Best239Weather_bot";
 
     //токен
-    private String accessToken = "5056913305:AAGIe3Fi25jLQWF-2pCwgTnh_Wx__EyFa_A";
+    private String accessToken = "5165576080:AAEk_aYWYjP1hRc2QrPom1hvhI6Wj0KUenU";
 
     //http://api.openweathermap.org/data/2.5/weather?q={city}&appid=ВАШ_КЛЮЧ&units=metric&lang=ru
     private String nowWeatherApiTemp = "http://api.openweathermap.org/data/2.5/weather?q={city}&appid=b269754c91bec9173eff8bc9d07099da&units=metric&lang=ru";
